@@ -24,6 +24,7 @@
 {
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
+    // I just add a new line of comment
 }
 
 @end
